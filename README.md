@@ -11,6 +11,9 @@ Los ficheros que se incluyen son:
 -Ficheros en formato CSV:
 
   train.csv: fichero csv obtenido de la plataforma Kaggle.
+  
   test.csv: fichero csv obtenido de la plataforma Kaggle.
+  
   datos_clean: fichero csv obtenido después de la limpieza de los datos.
+  
   train_clean: fichero csv a partir del fichero datos_clean que incluye la variable Survive para realizar un modelo predictivo de la supervivencia de los pasajeros del Titanic
